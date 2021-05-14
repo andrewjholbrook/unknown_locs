@@ -1,9 +1,9 @@
 setwd("~/unknown_locs")
 source("code/simulateHawkes.R")
 library(hpHawkes)
-set.seed(666)
+set.seed(777)
 
-for(i in 1:100) {
+for(i in 1:1000) {
   digits <- 1
   output <- generate_sample(mean_N_bg_points=200)
   output <- output[order(output[,3]),]
