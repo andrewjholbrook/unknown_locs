@@ -1,541 +1,242 @@
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 FALSE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 FALSE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 FALSE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 FALSE 
-sampledLocations 0 FALSE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 FALSE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 FALSE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 FALSE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 FALSE 
-sampledLocations 0.5 FALSE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 FALSE 
-sampledLocations 0 FALSE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 FALSE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 FALSE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 FALSE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 FALSE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 FALSE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 FALSE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 FALSE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 FALSE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 FALSE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 FALSE 
-fixedLocations 1 FALSE 
-sampledLocations 0.5 FALSE 
-fixedLocations 0.5 FALSE 
-sampledLocations 0 FALSE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 FALSE 
-sampledLocations 0 FALSE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 FALSE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 FALSE 
-fixedLocations 1 FALSE 
-sampledLocations 0.5 FALSE 
-fixedLocations 0.5 FALSE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 FALSE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 FALSE 
-fixedLocations 1 FALSE 
-sampledLocations 0.5 FALSE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 FALSE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 FALSE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 TRUE 
-sampledLocations 0 TRUE 
-fixedLocations 0 FALSE 
-sampledLocations 1 TRUE 
-fixedLocations 1 TRUE 
-sampledLocations 0.5 TRUE 
-fixedLocations 0.5 FALSE 
+sampledLocations 1 TRUE TRUE TRUE 
+fixedLocations 1 TRUE TRUE TRUE 
+sampledLocations 0.5 TRUE TRUE TRUE 
+fixedLocations 0.5 TRUE FALSE FALSE 
+sampledLocations 0 TRUE TRUE TRUE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE TRUE 
+fixedLocations 1 TRUE TRUE TRUE 
+sampledLocations 0.5 TRUE TRUE TRUE 
+fixedLocations 0.5 TRUE FALSE FALSE 
+sampledLocations 0 TRUE TRUE TRUE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE TRUE 
+fixedLocations 1 TRUE TRUE TRUE 
+sampledLocations 0.5 TRUE TRUE TRUE 
+fixedLocations 0.5 TRUE FALSE FALSE 
+sampledLocations 0 TRUE TRUE FALSE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE FALSE 
+fixedLocations 1 TRUE TRUE TRUE 
+sampledLocations 0.5 TRUE TRUE FALSE 
+fixedLocations 0.5 TRUE TRUE TRUE 
+sampledLocations 0 TRUE FALSE FALSE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE FALSE FALSE 
+fixedLocations 1 TRUE FALSE FALSE 
+sampledLocations 0.5 TRUE FALSE FALSE 
+fixedLocations 0.5 TRUE TRUE TRUE 
+sampledLocations 0 TRUE TRUE TRUE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE FALSE 
+fixedLocations 1 TRUE TRUE FALSE 
+sampledLocations 0.5 TRUE TRUE FALSE 
+fixedLocations 0.5 FALSE FALSE FALSE 
+sampledLocations 0 TRUE TRUE TRUE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE TRUE 
+fixedLocations 1 TRUE TRUE TRUE 
+sampledLocations 0.5 TRUE TRUE TRUE 
+fixedLocations 0.5 FALSE FALSE FALSE 
+sampledLocations 0 TRUE FALSE FALSE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE TRUE 
+fixedLocations 1 TRUE TRUE TRUE 
+sampledLocations 0.5 TRUE TRUE TRUE 
+fixedLocations 0.5 TRUE TRUE TRUE 
+sampledLocations 0 TRUE TRUE TRUE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE FALSE 
+fixedLocations 1 TRUE TRUE FALSE 
+sampledLocations 0.5 TRUE TRUE FALSE 
+fixedLocations 0.5 FALSE FALSE FALSE 
+sampledLocations 0 TRUE TRUE TRUE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE FALSE 
+fixedLocations 1 TRUE TRUE FALSE 
+sampledLocations 0.5 TRUE TRUE TRUE 
+fixedLocations 0.5 TRUE TRUE FALSE 
+sampledLocations 0 TRUE TRUE TRUE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE TRUE 
+fixedLocations 1 TRUE TRUE FALSE 
+sampledLocations 0.5 TRUE TRUE TRUE 
+fixedLocations 0.5 FALSE FALSE FALSE 
+sampledLocations 0 TRUE FALSE FALSE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE TRUE 
+fixedLocations 1 TRUE TRUE TRUE 
+sampledLocations 0.5 TRUE TRUE TRUE 
+fixedLocations 0.5 TRUE FALSE FALSE 
+sampledLocations 0 TRUE TRUE FALSE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE TRUE 
+fixedLocations 1 TRUE TRUE TRUE 
+sampledLocations 0.5 TRUE TRUE TRUE 
+fixedLocations 0.5 FALSE FALSE FALSE 
+sampledLocations 0 TRUE TRUE FALSE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE FALSE 
+fixedLocations 1 TRUE TRUE FALSE 
+sampledLocations 0.5 TRUE TRUE TRUE 
+fixedLocations 0.5 FALSE FALSE FALSE 
+sampledLocations 0 TRUE TRUE FALSE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE FALSE 
+fixedLocations 1 TRUE FALSE FALSE 
+sampledLocations 0.5 TRUE TRUE FALSE 
+fixedLocations 0.5 TRUE TRUE FALSE 
+sampledLocations 0 TRUE FALSE FALSE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE TRUE 
+fixedLocations 1 TRUE TRUE TRUE 
+sampledLocations 0.5 TRUE TRUE TRUE 
+fixedLocations 0.5 TRUE FALSE FALSE 
+sampledLocations 0 TRUE TRUE TRUE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE FALSE 
+fixedLocations 1 TRUE TRUE FALSE 
+sampledLocations 0.5 TRUE TRUE TRUE 
+fixedLocations 0.5 TRUE FALSE FALSE 
+sampledLocations 0 TRUE TRUE TRUE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE TRUE 
+fixedLocations 1 TRUE TRUE TRUE 
+sampledLocations 0.5 TRUE TRUE TRUE 
+fixedLocations 0.5 TRUE FALSE FALSE 
+sampledLocations 0 TRUE TRUE FALSE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE TRUE 
+fixedLocations 1 TRUE TRUE TRUE 
+sampledLocations 0.5 TRUE TRUE FALSE 
+fixedLocations 0.5 FALSE FALSE FALSE 
+sampledLocations 0 TRUE TRUE FALSE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE TRUE 
+fixedLocations 1 TRUE TRUE TRUE 
+sampledLocations 0.5 TRUE TRUE FALSE 
+fixedLocations 0.5 FALSE FALSE FALSE 
+sampledLocations 0 TRUE FALSE FALSE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE FALSE 
+fixedLocations 1 TRUE TRUE FALSE 
+sampledLocations 0.5 TRUE TRUE FALSE 
+fixedLocations 0.5 FALSE FALSE FALSE 
+sampledLocations 0 TRUE TRUE TRUE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE FALSE 
+fixedLocations 1 TRUE TRUE FALSE 
+sampledLocations 0.5 TRUE TRUE FALSE 
+fixedLocations 0.5 TRUE TRUE TRUE 
+sampledLocations 0 TRUE TRUE TRUE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE TRUE 
+fixedLocations 1 TRUE TRUE TRUE 
+sampledLocations 0.5 TRUE TRUE TRUE 
+fixedLocations 0.5 TRUE TRUE FALSE 
+sampledLocations 0 TRUE FALSE FALSE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE FALSE FALSE 
+fixedLocations 1 TRUE FALSE FALSE 
+sampledLocations 0.5 TRUE FALSE FALSE 
+fixedLocations 0.5 TRUE TRUE TRUE 
+sampledLocations 0 TRUE TRUE TRUE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE FALSE FALSE 
+fixedLocations 1 FALSE FALSE FALSE 
+sampledLocations 0.5 FALSE FALSE FALSE 
+fixedLocations 0.5 FALSE FALSE FALSE 
+sampledLocations 0 TRUE FALSE FALSE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE FALSE FALSE 
+fixedLocations 1 TRUE FALSE FALSE 
+sampledLocations 0.5 TRUE FALSE FALSE 
+fixedLocations 0.5 FALSE FALSE FALSE 
+sampledLocations 0 TRUE FALSE FALSE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE TRUE 
+fixedLocations 1 TRUE TRUE TRUE 
+sampledLocations 0.5 TRUE FALSE FALSE 
+fixedLocations 0.5 TRUE TRUE TRUE 
+sampledLocations 0 TRUE TRUE FALSE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE FALSE 
+fixedLocations 1 TRUE TRUE FALSE 
+sampledLocations 0.5 TRUE TRUE FALSE 
+fixedLocations 0.5 TRUE TRUE FALSE 
+sampledLocations 0 TRUE TRUE TRUE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE TRUE 
+fixedLocations 1 TRUE TRUE TRUE 
+sampledLocations 0.5 TRUE TRUE FALSE 
+fixedLocations 0.5 TRUE TRUE FALSE 
+sampledLocations 0 TRUE TRUE TRUE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE FALSE FALSE 
+fixedLocations 1 TRUE FALSE FALSE 
+sampledLocations 0.5 TRUE FALSE FALSE 
+fixedLocations 0.5 FALSE FALSE FALSE 
+sampledLocations 0 TRUE TRUE TRUE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE FALSE 
+fixedLocations 1 TRUE TRUE FALSE 
+sampledLocations 0.5 TRUE FALSE FALSE 
+fixedLocations 0.5 TRUE TRUE TRUE 
+sampledLocations 0 TRUE FALSE FALSE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE FALSE 
+fixedLocations 1 TRUE TRUE FALSE 
+sampledLocations 0.5 TRUE TRUE TRUE 
+fixedLocations 0.5 TRUE FALSE FALSE 
+sampledLocations 0 TRUE TRUE TRUE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE TRUE 
+fixedLocations 1 TRUE TRUE TRUE 
+sampledLocations 0.5 TRUE TRUE FALSE 
+fixedLocations 0.5 TRUE TRUE FALSE 
+sampledLocations 0 TRUE TRUE FALSE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE TRUE 
+fixedLocations 1 TRUE TRUE TRUE 
+sampledLocations 0.5 TRUE TRUE TRUE 
+fixedLocations 0.5 TRUE FALSE FALSE 
+sampledLocations 0 TRUE TRUE TRUE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE FALSE 
+fixedLocations 1 TRUE TRUE FALSE 
+sampledLocations 0.5 TRUE FALSE FALSE 
+fixedLocations 0.5 TRUE TRUE TRUE 
+sampledLocations 0 TRUE TRUE FALSE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 FALSE FALSE FALSE 
+fixedLocations 1 TRUE FALSE FALSE 
+sampledLocations 0.5 TRUE FALSE FALSE 
+fixedLocations 0.5 TRUE TRUE TRUE 
+sampledLocations 0 TRUE TRUE TRUE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE FALSE 
+fixedLocations 1 TRUE TRUE FALSE 
+sampledLocations 0.5 TRUE FALSE FALSE 
+fixedLocations 0.5 FALSE FALSE FALSE 
+sampledLocations 0 FALSE FALSE FALSE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE FALSE 
+fixedLocations 1 TRUE FALSE FALSE 
+sampledLocations 0.5 TRUE FALSE FALSE 
+fixedLocations 0.5 FALSE FALSE FALSE 
+sampledLocations 0 TRUE TRUE TRUE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE FALSE 
+fixedLocations 1 TRUE TRUE FALSE 
+sampledLocations 0.5 TRUE TRUE FALSE 
+fixedLocations 0.5 TRUE TRUE TRUE 
+sampledLocations 0 TRUE TRUE FALSE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE TRUE FALSE 
+fixedLocations 1 TRUE TRUE TRUE 
+sampledLocations 0.5 TRUE TRUE TRUE 
+fixedLocations 0.5 TRUE FALSE FALSE 
+sampledLocations 0 TRUE TRUE TRUE 
+fixedLocations 0 FALSE FALSE FALSE 
+sampledLocations 1 TRUE FALSE FALSE 
+fixedLocations 1 TRUE FALSE FALSE 
