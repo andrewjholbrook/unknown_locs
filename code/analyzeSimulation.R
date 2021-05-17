@@ -32,3 +32,18 @@ df1 <- df1[,-3]
 tab3 <- table(df1)[,,2] / (table(df1)[,,2] + table(df1)[,,1])
 tab3
 
+
+locs <- read_table2("output/simulationLocsCoverage.txt", col_names = FALSE)
+locs <- locs[,1:2]
+colnames(locs) <- c("Decimals","Coverage")
+locs$Decimals <- factor(locs$Decimals)
+
+gg <- ggplot(locs,aes(y=Coverage,fill=Decimals)) +
+  geom_boxplot(outlier.shape = NA) +
+  ylim(c(0.9,1))+
+  theme_bw()
+  
+gg
+
+
+
