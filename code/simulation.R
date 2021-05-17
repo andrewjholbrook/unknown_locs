@@ -1,7 +1,7 @@
 setwd("~/unknown_locs")
 source("code/simulateHawkes.R")
 library(hpHawkes)
-set.seed(666)
+set.seed(667)
 
 for(i in 1:1000) {
   digits <- 1
