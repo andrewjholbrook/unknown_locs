@@ -39,8 +39,8 @@ colnames(locs) <- c("Decimals","Coverage")
 locs$Decimals <- factor(locs$Decimals)
 
 gg <- ggplot(locs,aes(y=Coverage,fill=Decimals)) +
-  geom_boxplot(outlier.shape = NA) +
-  ylim(c(0.9,1))+
+  geom_hline( yintercept=0.95,color="purple",size=2) +
+  geom_boxplot() +
   theme_bw()
   
 gg
