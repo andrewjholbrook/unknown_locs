@@ -32,18 +32,32 @@ df1 <- df1[,-3]
 tab3 <- table(df1)[,,2] / (table(df1)[,,2] + table(df1)[,,1])
 tab3
 
+library(xtable)
+xtable(cbind(tab3,tab2,tab1))
+
 
 locs <- read_table2("output/simulationLocsCoverage.txt", col_names = FALSE)
 locs <- locs[,1:2]
 colnames(locs) <- c("Decimals","Coverage")
-locs$Decimals <- factor(locs$Decimals)
+locs$Decimals[locs$Decimals==1] <- 0.1
+locs$Decimals[locs$Decimals==0] <- 1.0 
+locs$Precision <- factor(locs$Decimals)
 
-gg <- ggplot(locs,aes(y=Coverage,fill=Decimals)) +
+means <- aggregate(Coverage ~  Precision, locs, mean)
+
+gg <- ggplot(locs,aes(y=Coverage,x=Precision)) +
   geom_hline( yintercept=0.95,color="purple",size=2) +
+  ylab("Proportion of locations covered by 95% CI") +
+  xlab("Spatial data precision") +
+  #annotate(geom="label",x=-77.036386,y=38.892711,label=mean()) +
   geom_boxplot() +
+  geom_text(data = means, aes(label = round(Coverage,digits = 3), y = Coverage + 0.0035)) +
+  ggtitle("Coverage distributions across independent simulations") +
   theme_bw()
   
 gg
+
+ggsave("coverage.pdf",gg,device = "pdf",width=6,height = 4,path = "figures/")
 
 
 
